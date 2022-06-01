@@ -1,0 +1,14 @@
+@font-face {
+    font-family: graphik;
+    src: url(f/Graphik\ Arabic\ Black.otf);
+}
+
+@font-face {
+    font-family: graphik2;
+    src: url(f/Graphik\ Arabic\ Light.otf);
+}
+
+@font-face {
+    font-family: vazir;
+    src: url(f/Graphik\ Arabic\ SemiBold.otf);
+}
